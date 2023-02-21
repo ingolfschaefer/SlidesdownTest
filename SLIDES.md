@@ -1,21 +1,11 @@
-# Metadata about the presentation:
-title: Presentation Title
-author: Your Name
+title: Mein erster Test
+author: Ingolf Schäfer
 date: 2023-01-20
 keywords: some useful keywords
-
-# Presentation settings:
-# Show progress bar
 progress: true
-# Show controls
 controls: true
-# Center presentation
 center: true
-# Create separate pages for fragments
 pdfSeparateFragments: false
-# Full list of supported settings: https://revealjs.com/config/ or
-# https://github.com/hakimel/reveal.js/blob/master/js/config.js
----
 
 # My first markdown slideshow
 
