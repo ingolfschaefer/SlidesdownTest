@@ -1,3 +1,4 @@
+---
 title: Mein erster Test
 author: Ingolf Schäfer
 date: 2023-01-20
@@ -6,6 +7,7 @@ progress: true
 controls: true
 center: true
 pdfSeparateFragments: false
+---
 
 # My first markdown slideshow
 
